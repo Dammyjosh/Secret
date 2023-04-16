@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Local settings (.vs)",
-    "\\Local settings (.vs)\\Secrets - Starting Code",
-    "\\Local settings (.vs)\\Secrets - Starting Code\\FileContentIndex",
-    "\\Local settings (.vs)\\Secrets - Starting Code\\FileContentIndex\\merges",
     "\\public",
     "\\public\\css",
     "\\views",
     "\\views\\partials"
   ],
-  "SelectedNode": "\\app.js",
+  "SelectedNode": "\\public\\css\\bootstrap-social.scss",
   "PreviewInSolutionExplorer": false
 }
